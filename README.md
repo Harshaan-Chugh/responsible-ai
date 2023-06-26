@@ -48,6 +48,4 @@ Documentation is available online: [https://responsibleai.readthedocs.io/en/late
      
 
  
-Cisco Research, Emerging Tech and Incubations,
-
-Cisco Systems Inc. 
+This is a clone of the cisco RAI repo. 
